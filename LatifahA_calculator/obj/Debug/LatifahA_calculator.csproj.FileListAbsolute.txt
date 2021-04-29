@@ -1,0 +1,10 @@
+D:\ukk\LatifahA_calculator\LatifahA_calculator\bin\Debug\LatifahA_calculator.exe.config
+D:\ukk\LatifahA_calculator\LatifahA_calculator\bin\Debug\LatifahA_calculator.exe
+D:\ukk\LatifahA_calculator\LatifahA_calculator\bin\Debug\LatifahA_calculator.pdb
+D:\ukk\LatifahA_calculator\LatifahA_calculator\obj\Debug\LatifahA_calculator.csprojAssemblyReference.cache
+D:\ukk\LatifahA_calculator\LatifahA_calculator\obj\Debug\LatifahA_calculator.Form1.resources
+D:\ukk\LatifahA_calculator\LatifahA_calculator\obj\Debug\LatifahA_calculator.Properties.Resources.resources
+D:\ukk\LatifahA_calculator\LatifahA_calculator\obj\Debug\LatifahA_calculator.csproj.GenerateResource.cache
+D:\ukk\LatifahA_calculator\LatifahA_calculator\obj\Debug\LatifahA_calculator.csproj.CoreCompileInputs.cache
+D:\ukk\LatifahA_calculator\LatifahA_calculator\obj\Debug\LatifahA_calculator.exe
+D:\ukk\LatifahA_calculator\LatifahA_calculator\obj\Debug\LatifahA_calculator.pdb
